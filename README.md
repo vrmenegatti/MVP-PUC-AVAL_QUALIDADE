@@ -9,9 +9,9 @@ Assinatura documento usuario 2.mp4
 
 TCLEs Assinados:	
 TCLE MAIRLAN assinado.pdf
-TCLE2025_assinado_EstephanieMartins.pdf
-TCLE2025_assinado_Juliana Menegatti.pdf
-TCLE2025_assinado_assinado PRISCILLA.pdf
+TCLE2025_assinado_EstephanieMartins.pdf;
+TCLE2025_assinado_Juliana Menegatti.pdf;
+TCLE2025_assinado_assinado PRISCILLA.pdf;
 
 Questionários PRE-TESTE:
 
