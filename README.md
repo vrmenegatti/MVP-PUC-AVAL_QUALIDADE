@@ -4,6 +4,9 @@ MVP da Sprint de Avaliação de Qualidade de Usoi de Sistemas - PUC-RIO, Abril/2
 Relatório:
 Relatório MVP Avaliação da Qualidade de Uso de Sistemas 2025.PDF
 
+Video de uma das observações:
+Assinatura documento usuario 2.mp4
+
 TCLEs Assinados:	
 TCLE MAIRLAN assinado.pdf
 TCLE2025_assinado_EstephanieMartins.pdf
