@@ -1,18 +1,13 @@
 # MVP-PUC-AVAL_QUALIDADE
 MVP da Sprint de Avaliação de Qualidade de Usoi de Sistemas - PUC-RIO, Abril/25
+Aluno VITOR RAPHAEL MENEGATTI CHAGAS
 
 Relatório:
 Relatório MVP Avaliação da Qualidade de Uso de Sistemas 2025.PDF
 
-Video de uma das observações:
-Assinatura documento usuario 2.mp4
+Video de uma das observações
 
-TCLEs Assinados:	
-TCLE MAIRLAN assinado.pdf
-TCLE2025_assinado_EstephanieMartins.pdf;
-TCLE2025_assinado_Juliana Menegatti.pdf;
-TCLE2025_assinado_assinado PRISCILLA.pdf;
+TCLEs Assinados
 
-Questionários PRE-TESTE:
-
-Questionários POS-TESTE:
+Questionários PRE-TESTE
+Questionários POS-TESTE
